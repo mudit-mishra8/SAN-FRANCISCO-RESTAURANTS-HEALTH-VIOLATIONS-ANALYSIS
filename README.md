@@ -37,7 +37,7 @@ For this analysis, SQL queries were utilized to extract and manipulate data from
 ## Analysis Index
 
 ###  0   :  [Data Preprocessing: Changing the Granularity of Data](#Data-Preprocessing-Changing-the-Granularity-of-Data)
-### 1    :  [Yearly Trended Analysis of Health Violations](#Yearly Trend Analysis of Health Violations)
+### 1    :  [Yearly Trended Analysis of Health Violations](#Yearly-Trend-Analysis-of-Health-Violations)
 ### 2.1 :   [Analysis of Inspection Scores by Risk Category](#2.1-Analysis-of-Inspection-Scores-by-Risk-Category)
 ### 2.2 :   [Analysis of Inspection Scores for Non-Violation Category](# )
 ### 3    :  [Detailed Analysis of Top Violations by Risk Category](# )
