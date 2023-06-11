@@ -1103,7 +1103,7 @@ where
 
 
 
-# 5:  In Depth Analysis of Businesses With Multiple Inspections in the Year 2016 
+# 5: In Depth Analysis of Businesses With Multiple Inspections in the Year 2016 
 
 ## SQL Queries:
 ```sql
