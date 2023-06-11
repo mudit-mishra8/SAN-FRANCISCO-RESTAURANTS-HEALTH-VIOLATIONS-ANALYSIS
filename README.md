@@ -41,7 +41,7 @@ For this analysis, SQL queries were utilized to extract and manipulate data from
 ### 2.1 :   [Analysis of Inspection Scores by Risk Category](#21-Analysis-of-Inspection-Scores-by-Risk-Category)
 ### 2.2 :   [Analysis of Inspection Scores for Non-Violation Category](#22-Analysis-of-Inspection-Scores-for-Non-Violation-Category )
 ### 3    :  [Detailed Analysis of Top Violations by Risk Category](#3-Detailed-Analysis-of-Top-Violations-by-Risk-Category)
-### 4    :  [Analysis of Inspection Score Bins and their Associated Risk Categories](# )
+### 4    :  [Analysis of Inspection Score Bins and their Associated Risk Categories](#4-Distribution-By-Inspection-Score-bins-at-Risk-Level)
 ### 5    :  [In-Depth Analysis of Businesses With Multiple Inspections in the Year 2016](# )
 ### 6    :  [Calculating points to deduct for Different Violations in all Categories](# )
 ### 7    :  [Calculating Inspection Scores for Restaurant Health Violations](# )
