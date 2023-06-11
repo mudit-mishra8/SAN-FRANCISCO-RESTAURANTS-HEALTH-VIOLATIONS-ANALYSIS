@@ -1479,7 +1479,7 @@ ORDER BY
 ### WHY ? : So that we can find the inspection score for any restaurant on the basis of the type of violation. Lets see this below:
 
 
-# 7:  Calculating Inspection Scores for Restaurant Health Violations
+# 7: Calculating Inspection Scores for Restaurant Health Violations
 
 
 ## Background
